@@ -13,3 +13,6 @@ db.sqlite3
 
 # Ignore environment variables
 .env
+
+# Ignore Windows Zone.Identifier files
+*:Zone.Identifier
