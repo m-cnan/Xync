@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Ignore Django stuff
+__pycache__/
+*.pyc
+*.sqlite3
+db.sqlite3
+
+# Ignore IDE settings
+*.vscode/
+*.idea/
+
+# Ignore environment variables
+.env
